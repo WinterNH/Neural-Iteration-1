@@ -4,5 +4,7 @@
     As a disclaimer, some of this code may be learned from lectures, articles, and 
     videos online so I cannot claim any part to be derived from just myself.
 
-## Back-propagation
-uh backprop explination go here
+## Sequence
+ <ins>Forward Propagation</ins>
+ <ins>Activation</ins>
+ <ins>Back Propagation</ins>
