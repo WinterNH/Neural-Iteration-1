@@ -6,5 +6,7 @@
 
 ## Sequence
  <ins>Forward Propagation</ins>
+
  <ins>Activation</ins>
+    test
  <ins>Back Propagation</ins>
