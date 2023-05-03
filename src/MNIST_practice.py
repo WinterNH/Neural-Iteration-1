@@ -1,7 +1,6 @@
-import sys
-print(sys.version)
-
-#import numpy as np
+import pandas as pd
+import numpy as np
+from matplotlib import pyplot as plt
 
 msg = "hello"
 print(msg)
